@@ -1,4 +1,4 @@
-# voting-bots
+# Voting Bots
 Voting Bots For STEEM Blockchain
 
 ---
