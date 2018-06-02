@@ -7,7 +7,7 @@ Voting Bots For STEEM Blockchain
 Tested on Windows 10 (10.0.16299.431), NodeJS 8.11.1, npm 5.6.0.
 <br>
 Install NodeJS - https://nodejs.org/en/
-<br>
+<br><br>
 Download voting-trail.js and edit it:<br>
 
 `if( txData.voter == 'fbslo') {`<br>
